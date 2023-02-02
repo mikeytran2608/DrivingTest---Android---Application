@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Downloads/Final_exam/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/drawable/button2.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/drawable/button_dethi.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/drawable/gradient_background.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/drawable/navbar.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/drawable/thongbao.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_bienbao.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_ketquathi.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_kinhnghiemthia.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_kinhnghiemthib.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_lichsubaithi.xml" value="0.176" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_lythuyet.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_meoghinho.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_meothuchanha.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_meothuchanhb.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_thisathach.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/activity_xemlaidapan.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/custom_dialog_finish.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/custom_dialog_hetgio.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/custom_dialog_meothuchanh.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/custom_dialog_thisathach.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/header_bienbao.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/layout_recyclerview_bienbao.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/layout_recyclerview_lichsubaithi.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/layout_recyclerview_lythuyet.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/layout_recyclerview_meoghinho.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/layout_recyclerview_thisathach.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Final_exam/app/src/main/res/layout/layout_recyclerview_xemlaidapan.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
